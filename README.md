@@ -22,3 +22,11 @@ This program is great for learning Python concepts like functions, loops, condit
 - Optionally includes special characters.
 - Ensures the generated password meets all selected criteria.
 - Simple and interactive console-based usage.
+
+## In Future
+
+- Add an option to copy the password directly to the clipboard.
+- Allow the user to specify the number of passwords to generate at once.
+- Add a GUI for easier interaction using Tkinter or PyQt.
+- Include a strength indicator for generated passwords.
+- Enable saving passwords securely to a local encrypted file.
